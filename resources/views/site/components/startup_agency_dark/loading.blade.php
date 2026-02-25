@@ -12,11 +12,6 @@
             <span>X</span>
             <span>Ã</span>
             <span>O</span>
-            <span>J</span>
-            <span>O</span>
-            <span>V</span>
-            <span>E</span>
-            <span>M</span>
         </div>
     </div>
 </div>
