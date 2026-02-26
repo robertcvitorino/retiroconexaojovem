@@ -31,6 +31,8 @@ class ParticipantResource extends Resource
 
     protected static string|UnitEnum|null $navigationGroup = 'Cadastro';
 
+    protected static ?int $navigationSort = 0;
+
     public static function form(Schema $schema): Schema
     {
         return ParticipantForm::configure($schema);
